@@ -1,1 +1,12 @@
 Course link: youtube.com/watch?v=JD-age0BPVo&t=146s
+
+Dependencies:
+Node.js
+NPM
+Django Rest Framework
+
+Extensions
+Prettier
+Django
+ES7 React
+JavaScript (ES6)
